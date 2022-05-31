@@ -2,7 +2,7 @@ package guru.qa;
 
 import java.util.Arrays;
 
-public class Main {
+public class JavaBasics {
 
     public static void primitiveDataTypes() {
         //byte type example (from -128 to 127)
